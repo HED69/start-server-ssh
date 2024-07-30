@@ -25,7 +25,7 @@ cd automatic-ssh
 
 giving permissions the script
 ```
-chmod 777 'script automatic ssh.sh'
+chmod +x 'script automatic ssh.sh'
 ```
 
 
